@@ -1,0 +1,5 @@
+*.db
+venv
+migrations
+.idea
+__pycache__
